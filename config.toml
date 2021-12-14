@@ -1,0 +1,4 @@
+baseURL = 'https://gianluca.im/'
+languageCode = 'it-IT'
+title = 'gianluca.im'
+theme = "pixyll"
