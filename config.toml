@@ -1,4 +1,4 @@
-baseURL = 'https://gianluca.im/'
-languageCode = 'it-IT'
+baseURL = 'https://gianluca.im'
+languageCode = 'it-it'
 title = 'gianluca.im'
-theme = "pixyll"
+theme = 'papermod'
