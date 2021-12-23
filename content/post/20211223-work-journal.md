@@ -1,8 +1,8 @@
 ---
-title: "W51/2020 - Work journal"
+title: "Work journal - W51-21"
 date: 2021-12-23T18:30:00+01:00
 draft: false
-summary: Work journal per la settimana 51
+summary: Settimana 51 - 2021
 ---
 
 ## Cosa sto studiando
